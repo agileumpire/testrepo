@@ -1,4 +1,4 @@
 testrepo
 ========
 
-George's first repo
+George's first repo.  pretty much
